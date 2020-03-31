@@ -18,3 +18,7 @@
  - [css architecture in a comoponent era](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
  - [width vs flex-basis](https://gedd.ski/post/the-difference-between-width-and-flex-basis/)
  - [advanced mobile modal (tweet)](https://twitter.com/shuding_/status/1241248120249282560?s=20)
+
+## 🎂 creative coding
+ - https://necessarydisorder.wordpress.com/2017/11/15/drawing-from-noise-and-then-making-animated-loopy-gifs-from-there/
+ - https://twitter.com/Mamboleoo/status/1244656427890872327?s=20
